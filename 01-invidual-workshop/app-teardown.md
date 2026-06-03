@@ -88,7 +88,7 @@ Finding dựa trên quan sát thật: AI có thể đọc được tổng chi ti
 
 **Screenshot evidence:**
 
-![Screenshot Moni trả lời câu hỏi chi tiêu tháng trước](D:\project\aiinact\2A202600934-TranTrucQuynh-Day05\01-invidual-workshop\screenshots\z7896866977638_4cd8847eaaa34ee1f7a946e8a00dfbb8.jpg)
+![Screenshot Moni trả lời câu hỏi chi tiêu tháng trước](screenshots/z7896866977638_4cd8847eaaa34ee1f7a946e8a00dfbb8.jpg)
 
 ## 4. Four Paths
 
